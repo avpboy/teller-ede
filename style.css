@@ -1,6 +1,9 @@
 body {
     background-size: cover;
     font-weight: 500;
+    background: url("physics_back.jpg") no-repeat;
+    background-position: center;
+
   }
   
   p {
@@ -32,4 +35,40 @@ body {
   ul {
     list-style-image: url('physics_icon.png');
   }
+  
+
+  #kiemeles {
+    font-weight: 800;
+}
+
+#kiemeles:hover {
+    color: red;
+}
+
+
+#teller_kep {
+    float: right;
+    width: 260px;
+    margin-left: 20px;
+}
+
+td {
+    border: solid 1px grey;
+}
+table {
+    text-align: center;
+    padding: 10px;
+}
+
+
+th {
+    background-color: grey;
+    color: white;
+}
+
+a, a:hover {
+    text-decoration: none;
+}
+
+
   
