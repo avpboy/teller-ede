@@ -57,8 +57,8 @@ td {
 }
 table {
     text-align: center;
-    padding: 10px;
 }
+
 
 
 th {
@@ -68,6 +68,10 @@ th {
 
 a, a:hover {
     text-decoration: none;
+}
+
+.p-5 {
+    padding: 10px !important;
 }
 
 
